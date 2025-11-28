@@ -20,4 +20,3 @@ HTML, CSS, JavaScript
 React / Bootstrap (if used)
 Backend
 Java / Spring Boot (or Node.js if used)
-REST API
